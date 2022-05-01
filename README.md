@@ -1,4 +1,4 @@
-# BANK-MARKETING-DATA-SET
+# CLASSIFICATION-MODEL-FOR-BANK-MARKETING-DATA-SET
 
 In this project, we have been provided a secondary dataset given -“BANK MARKETING DATA SET” obtained from the UCI Machine Learning Repository. 
 It is related with direct marketing campaigns (phone calls) of a Portuguese banking institution.
